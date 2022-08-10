@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "hhttps://github.com/Piratenpartei/Kommunalpiraten/v1/kommunalpiraten.schema.json",
+  "description": "Kommunalpiraten der Piratenpartei Deutschland",
+  "type": "object",
+  "properties": {
+    "Mandatsträger": {
+      "type": "array",
+      "properties": {
+        "Bundesland": {
+          "type": "string"
+        },
+        "Vorname": {
+          "type": "string"
+        },
+        "Nachname": {
+          "type": "string"
+        },
+        "Gebietskörperschaft": {
+          "type": "string"
+        },
+        "Name des Parlaments": {
+          "type": "string"
+        },
+        "Ort": {
+          "type": "string"
+        },
+        "seit": {
+          "type": "number"
+        },
+        "bis": {
+          "type": "number"
+        },
+        "seit": {
+          "type": "number"
+        },
+        "Webseite": {
+          "type": "string"
+        },
+        "aktiv": {
+          "type": "boolean"
+        },
+         "height": {
+          "type": "number"
+        }
+      },
+      "required": [ "Bundesland", "Vorname", "Nachname", "Gebietskörperschaft", "Ort" ]
+    }
+  }
+}

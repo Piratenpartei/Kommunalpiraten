@@ -1,0 +1,91 @@
+{
+    "Mandatsträger": [{
+        "Bundesland": "Hessen",
+        "Vorname": "Herbert",
+        "Nachname": "Förster",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Stadtverordnetenversammlung Frankfurt",
+        "Ort": "Frankfurt",
+        "seit": 2011,
+        "bis": null,
+        "Webseite": "https://www.piraten-im-roemer.de",
+        "aktiv": true
+        }, {
+        "Bundesland": "Hessen",
+        "Vorname": "Constanze",  
+        "Nachname": "Gläser",
+        "Gebietskörperschaft": "Kreis",
+        "Name des Parlaments": "Kreistag Schwalm-Eder-Kreis",
+        "Ort": "Schwalm-Eder",
+        "seit": 2021,
+        "bis": null,
+        "Webseite": "https://www.piraten-sek.de",
+        "aktiv": true
+        }, {
+        "Bundesland": "Hessen",
+        "Vorname": "Marcel",  
+        "Nachname": "Duve",
+        "Gebietskörperschaft": "Kreis",
+        "Name des Parlaments": "Kreistag Schwalm-Eder-Kreis",
+        "Ort": "Schwalm-Eder",
+        "seit": 2016,
+        "bis": 2021,
+        "Webseite": "https://www.piraten-sek.de",
+        "aktiv": false
+        }, {
+        "Bundesland": "Hessen",
+        "Vorname": "Michael",  
+        "Nachname": "Weber",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Stadtverordnetenversammlung Marburg",
+        "Ort": "Marburg",
+        "seit": 2013,
+        "bis": null,
+        "Webseite": "https://www.piratenpartei-marburg.de",
+        "aktiv": true
+        }, {
+        "Bundesland": "Hessen",
+        "Vorname": "Frank",  
+        "Nachname": "Lerche",
+        "Gebietskörperschaft": "Kreis",
+        "Name des Parlaments": "Kreistag Marburg Biedenkopf",
+        "Ort": "Marburg Biedenkopf",
+        "seit": 2016,
+        "bis": null,
+        "Webseite": "https://www.liberaleundpiraten.de/",
+        "aktiv": true
+        }, {
+        "Bundesland": "Hessen",
+        "Vorname": "Annette",  
+        "Nachname": "Schaper-Herget",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Stadtverordnetenversammlung Offenbach",
+        "Ort": "Offenbach",
+        "seit": 2021,
+        "bis": 2022,
+        "Webseite": "https://www.ofa-fraktion.de",
+        "aktiv": false
+        }, {
+        "Bundesland": "Hessen",
+        "Vorname": "Helge",  
+        "Nachname": "Herget",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Stadtverordnetenversammlung Offenbach",
+        "Ort": "Offenbach",
+        "seit": 2021,
+        "bis": 2022,
+        "Webseite": "https://www.ofa-fraktion.de",
+        "aktiv": false
+        }, {
+        "Bundesland": "Hessen",
+        "Vorname": "Gregory",  
+        "Nachname": "Engels",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Stadtverordnetenversammlung Offenbach",
+        "Ort": "Offenbach",
+        "seit": 2016,
+        "bis": 2021,
+        "Webseite": "",
+        "aktiv": false
+        }]
+}
