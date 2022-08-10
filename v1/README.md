@@ -8,3 +8,5 @@ Da kein einzelner Pirat oder Vorstand einen Überblick über alle aktuellen (ode
 Wenn du Interesse hast zu unterstützen, oder einen Fehler gefunden hat, oder einen Mandatsträger ergänzen möchtest, dann kannst du ein "Issue" öffnen (https://github.com/Piratenpartei/Kommunalpiraten/issues/new) und einen Hinweis geben. Noch besser wäre es natürlich - wenn du dich damit auskennst - einen Pull Request zu öffnen, mit dem die jeweilige Änderung vollzogen wird. 
 Vielen Dank für deine Hilfe!
 
+Eine Bitte: 
+Bei Ergänzungen zum JSON wäre es nett, die dann neue Datei vor dem Commit gegen einen Validator zu prüfen, dass es keine Überraschungen gibt. Entweder nur das JSON (zum Beispiel [hier](https://jsonformatter.curiousconcept.com/#) ) oder am besten sogar explizit gegen das Schema prüfen (zum Beispiel [hier](https://www.jsonschemavalidator.net) ).
