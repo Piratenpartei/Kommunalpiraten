@@ -2,5 +2,5 @@
 
 Hier finden sich Informationen über die kommunalen Mandatsträger der Piratenpartei Deutschland.
 
-* JSON mit den bekannten Mandatsträgern der Partei.
+* (JSON mit den bekannten Mandatsträgern der Partei)[v1/kommunalpiraten.json].
 
