@@ -87,5 +87,148 @@
         "bis": 2021,
         "Webseite": "",
         "aktiv": false
+        }, {
+        "Bundesland": "Baden-Württemberg",
+        "Vorname": "Anja",
+        "Nachname": "Hirschel",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Gemeinderat Ulm",
+        "Ort": "Ulm",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "-/-",
+        "aktiv": true
+        }, {
+        "Bundesland": "Baden-Württemberg",
+        "Vorname": "Sabine",  
+        "Nachname": "Schuhmacher",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Gemeinderat Lörrach",
+        "Ort": "Lörrach",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "-/-",
+        "aktiv": true
+        }, {
+        "Bundesland": "Baden-Württemberg",
+        "Vorname": "Michael",  
+        "Nachname": "Freche",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Gemeinderat Göppingen",
+        "Ort": "Göppingen",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "-/-",
+        "aktiv": true
+        }, {
+        "Bundesland": "Baden-Württemberg",
+        "Vorname": "Julia",  
+        "Nachname": "Uebele",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Gemeinderat Göppingen",
+        "Ort": "Göppingen",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "-/-",
+        "aktiv": true
+        }, {
+        "Bundesland": "Baden-Württemberg",
+        "Vorname": "Annette",  
+        "Nachname": "Linder",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Gemeinderat Gutach im Breisgau",
+        "Ort": "Gutach im Breisgau",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "-/-",
+        "aktiv": true
+        }, {
+        "Bundesland": "Baden-Württemberg",
+        "Vorname": "Philip",  
+        "Nachname": "Köngeter",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Gemeinderat Welzheim",
+        "Ort": "Welzheim",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "-/-",
+        "aktiv": true
+        }, {
+        "Bundesland": "Baden-Württemberg",
+        "Vorname": "Kai",  
+        "Nachname": "Dorra",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Gemeinderat Welzheim",
+        "Ort": "Welzheim",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "-/-",
+        "aktiv": true
+        }, {
+        "Bundesland": "Baden-Württemberg",
+        "Vorname": "Philip",  
+        "Nachname": "Köngeter",
+        "Gebietskörperschaft": "Kreis",
+        "Name des Parlaments": "Kreistag Rems-Murr",
+        "Ort": "Rems-Murr",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "-/-",
+        "aktiv": true
+        }, {
+        "Bundesland": "Baden-Württemberg",
+        "Vorname": "Stefan",  
+        "Nachname": "Urbat",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Stadtrat Stuttgart",
+        "Ort": "Stuttgart",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "-/-",
+        "aktiv": true
+        }, {
+        "Bundesland": "Baden-Württemberg",
+        "Vorname": "Michael",  
+        "Nachname": "Knödler",
+        "Gebietskörperschaft": "Region",
+        "Name des Parlaments": "Regionalrat Stuttgart",
+        "Ort": "Stuttgart",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "-/-",
+        "aktiv": true
+        }, {
+        "Bundesland": "Baden-Württemberg",
+        "Vorname": "Volker",  
+        "Nachname": "Dyken",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Gemeinderat Backnang",
+        "Ort": "Backnang",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "-/-",
+        "aktiv": true
+        }, {
+        "Bundesland": "Baden-Württemberg",
+        "Vorname": "Manuel",  
+        "Nachname": "Feuersänger",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Gemeinderat Täferrot",
+        "Ort": "Täferrot",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "-/-",
+        "aktiv": true
+        }, {
+        "Bundesland": "Baden-Württemberg",
+        "Vorname": "Sabine",  
+        "Nachname": "Schuhmacher",
+        "Gebietskörperschaft": "Kreis",
+        "Name des Parlaments": "Kreistag Lörrach",
+        "Ort": "Lörrach",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "-/-",
+        "aktiv": true
         }]
 }

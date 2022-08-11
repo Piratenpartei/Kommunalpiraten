@@ -1,4 +1,4 @@
-# JSON File mit dne Kommunalpiraten der Piratenpartei Deutschland
+# JSON File mit den Kommunalpiraten der Piratenpartei Deutschland
 
 Die JSON-Datei enthält die Liste der bekannten Mitglieder der Piratenpartei in kommunalen Mandaten per Stand vom 9. August 2022.
 
