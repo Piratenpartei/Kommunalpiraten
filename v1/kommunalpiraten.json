@@ -230,5 +230,38 @@
         "bis": null,
         "Webseite": "-/-",
         "aktiv": true
+        }, {
+        "Bundesland": "Saarland",
+        "Vorname": "Wolfgang",
+        "Nachname": "Barth",
+        "Gebietskörperschaft": "Gemeinde",
+        "Name des Parlaments": "Gemeinderat Weiskirchen",
+        "Ort": "Weiskirchen",
+        "seit": 2014,
+        "bis": null,
+        "Webseite": "https://www.piraten.saarland",
+        "aktiv": true
+        }, {
+        "Bundesland": "Saarland",
+        "Vorname": "Michael",
+        "Nachname": "Grauer",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Ortsrat Merchingen",
+        "Ort": "Merzig",
+        "seit": 2014,
+        "bis": null,
+        "Webseite": "https://www.piraten.saarland",
+        "aktiv": true
+        }, {
+        "Bundesland": "Saarland",
+        "Vorname": "Dirk",
+        "Nachname": "Huffer",
+        "Gebietskörperschaft": "Stadt",
+        "Name des Parlaments": "Ortsrat Merchingen",
+        "Ort": "Merzig",
+        "seit": 2019,
+        "bis": null,
+        "Webseite": "https://www.piraten.saarland",
+        "aktiv": true
         }]
 }
