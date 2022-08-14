@@ -96,7 +96,7 @@
         "Ort": "Ulm",
         "seit": 2019,
         "bis": null,
-        "Webseite": "-/-",
+        "Webseite": "https://piratenpartei-bw.de",
         "aktiv": true
         }, {
         "Bundesland": "Baden-Württemberg",
@@ -107,7 +107,7 @@
         "Ort": "Lörrach",
         "seit": 2019,
         "bis": null,
-        "Webseite": "-/-",
+        "Webseite": "https://piratenpartei-bw.de",
         "aktiv": true
         }, {
         "Bundesland": "Baden-Württemberg",
@@ -118,7 +118,7 @@
         "Ort": "Göppingen",
         "seit": 2019,
         "bis": null,
-        "Webseite": "-/-",
+        "Webseite": "https://piratenpartei-bw.de",
         "aktiv": true
         }, {
         "Bundesland": "Baden-Württemberg",
@@ -129,7 +129,7 @@
         "Ort": "Göppingen",
         "seit": 2019,
         "bis": null,
-        "Webseite": "-/-",
+        "Webseite": "https://piratenpartei-bw.de",
         "aktiv": true
         }, {
         "Bundesland": "Baden-Württemberg",
@@ -140,7 +140,7 @@
         "Ort": "Gutach im Breisgau",
         "seit": 2019,
         "bis": null,
-        "Webseite": "-/-",
+        "Webseite": "https://piratenpartei-bw.de",
         "aktiv": true
         }, {
         "Bundesland": "Baden-Württemberg",
@@ -151,7 +151,7 @@
         "Ort": "Welzheim",
         "seit": 2019,
         "bis": null,
-        "Webseite": "-/-",
+        "Webseite": "https://piratenpartei-bw.de",
         "aktiv": true
         }, {
         "Bundesland": "Baden-Württemberg",
@@ -162,7 +162,7 @@
         "Ort": "Welzheim",
         "seit": 2019,
         "bis": null,
-        "Webseite": "-/-",
+        "Webseite": "https://piratenpartei-bw.de",
         "aktiv": true
         }, {
         "Bundesland": "Baden-Württemberg",
@@ -173,7 +173,7 @@
         "Ort": "Rems-Murr",
         "seit": 2019,
         "bis": null,
-        "Webseite": "-/-",
+        "Webseite": "https://piratenpartei-bw.de",
         "aktiv": true
         }, {
         "Bundesland": "Baden-Württemberg",
@@ -184,7 +184,7 @@
         "Ort": "Stuttgart",
         "seit": 2019,
         "bis": null,
-        "Webseite": "-/-",
+        "Webseite": "https://piratenpartei-bw.de",
         "aktiv": true
         }, {
         "Bundesland": "Baden-Württemberg",
@@ -195,7 +195,7 @@
         "Ort": "Stuttgart",
         "seit": 2019,
         "bis": null,
-        "Webseite": "-/-",
+        "Webseite": "https://piratenpartei-bw.de",
         "aktiv": true
         }, {
         "Bundesland": "Baden-Württemberg",
@@ -206,7 +206,7 @@
         "Ort": "Backnang",
         "seit": 2019,
         "bis": null,
-        "Webseite": "-/-",
+        "Webseite": "https://piratenpartei-bw.de",
         "aktiv": true
         }, {
         "Bundesland": "Baden-Württemberg",
@@ -217,7 +217,7 @@
         "Ort": "Täferrot",
         "seit": 2019,
         "bis": null,
-        "Webseite": "-/-",
+        "Webseite": "https://piratenpartei-bw.de",
         "aktiv": true
         }, {
         "Bundesland": "Baden-Württemberg",
@@ -228,7 +228,7 @@
         "Ort": "Lörrach",
         "seit": 2019,
         "bis": null,
-        "Webseite": "-/-",
+        "Webseite": "https://piratenpartei-bw.de",
         "aktiv": true
         }, {
         "Bundesland": "Saarland",
@@ -263,5 +263,6 @@
         "bis": null,
         "Webseite": "https://www.piraten.saarland",
         "aktiv": true
-        }]
+        }
+    ]
 }
