@@ -9,4 +9,4 @@ Wenn du Interesse hast zu unterstützen, oder einen Fehler gefunden hat, oder ei
 Vielen Dank für deine Hilfe!
 
 Eine Bitte: 
-Bei Ergänzungen zum JSON wäre es nett, die dann neue Datei vor dem Commit gegen einen Validator zu prüfen, dass es keine Überraschungen gibt. Entweder nur das JSON (zum Beispiel [hier](https://jsonformatter.curiousconcept.com/#) ) oder am besten sogar explizit gegen das Schema prüfen (zum Beispiel [hier](https://www.jsonschemavalidator.net) ).
+Bei Ergänzungen zum JSON wäre es nett, die dann neue Datei vor dem Commit gegen einen Validator zu prüfen, dass es keine Überraschungen gibt. Entweder nur das JSON (zum Beispiel [hier](https://jsonformatter.curiousconcept.com/#) ) oder am besten sogar explizit gegen das Schema prüfen (zum Beispiel [hier](https://www.jsonschemavalidator.net)).
